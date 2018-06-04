@@ -14,7 +14,7 @@ NOTE:
 
 GRAMMAR USED IN CODE(Feel free to add your own):
 
-E->TD	
+E->TD<br>	
 D->+TD	
 D->e	
 T->FU	
