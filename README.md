@@ -1,6 +1,6 @@
 # LL1-PARSER-IN-C<br/>	
-LL1 PARSER IN C FULL CODE<br/>	
-Automating the process of creating First and Follow sets and creating an LL1 Parsing Table<br/>	
+LL1 PARSER IN C FULL CODE
+Automating the process of creating First and Follow sets and creating an LL1 Parsing Table
 to check the validity of an user-input string according to given grammar.<br/>	
 <br/>	
 The grammar used is hard coded here.<br/>	 
